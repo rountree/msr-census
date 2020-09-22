@@ -1,0 +1,8 @@
+modules.order
+Module.symvers
+msr-census.ko
+msr-census.mod
+msr-census.mod.c
+msr-census.mod.o
+msr-census.o
+.*.cmd
